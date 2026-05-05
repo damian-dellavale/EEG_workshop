@@ -39,5 +39,8 @@ Dellavale D, Velarde O, Mato G, Urdapilleta E (2020), *Complex interplay between
 DOI: [10.1103/PhysRevE.102.062401](https://doi.org/10.1103/PhysRevE.102.062401)\
 Code: [TLI algorithm](https://github.com/damian-dellavale/Time-Locked-Index)
 
+Dellavale D, Urdapilleta E, Cámpora N, Velarde O, Kochen S, Mato G (2020), *Two types of ictal phase-amplitude couplings in epilepsy patients revealed by spectral harmonicity of intracerebral EEG recordings*, Clinical Neurophysiology, 131(8), 1866-1885.
+DOI: [10.1016/j.clinph.2020.04.160](https://doi.org/10.1101/2020.03.13.991299)
+
 Ueda T, Garnier E, Dellavale D, Bartolomei F, Bénar CG (2025), *Identification of the epileptogenic zone using phase-amplitude coupling on ictal electroencephalography: authentic or spurious PAC?*, Clinical Neurophysiology 174, 151-159.
 DOI: [10.1016/j.clinph.2025.03.029](https://doi.org/10.1016/j.clinph.2025.03.029)
