@@ -20,7 +20,7 @@
 | Neuronal avalanches and criticality - Long-range temporal correlations - Scale-free - Detrended fluctuation analysis | Theory and Coding examples |
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic and Coding examples |
 | EEG avalanches as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
-| Ultradian dynamics of salient events | Data analysis description |
+| Ultradian dynamics of salient events | Examples of data analysis |
 
 ---
 
@@ -31,7 +31,7 @@
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity - O-info connectivity | Measures description |
 | Regression model for building the clock - Methodological caveats | Measures description |
-| Non-invasive biophysical neuromodulation to reduce functional brain aging | Data analysis description and Coding examples |
+| Non-invasive biophysical neuromodulation to reduce functional brain aging | Data analysis and Coding examples |
 
 ## References
 
