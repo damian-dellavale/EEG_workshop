@@ -2,10 +2,10 @@
 
 ---
 
-## Module 1
+## Module 1 - Oscillations in EEG signals
 
-| Oscillations in EEG signals ||
-|--|--|
+|||
+|---|---|
 | Filtering, Hilbert transform | Theory and Analytic examples |
 | Coherence measures: Spectral coherence, PLV, wPLV, PPC | Measures description and Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC - Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
@@ -13,9 +13,9 @@
 
 ---
 
-## Module 2
+## Module 2 - Broadband arrhythmic activity in EEG signals
 
-| Broadband arrhythmic activity in EEG signals ||
+|||
 |---|---|
 | Neuronal avalanches and criticality - Long-range temporal correlations - Scale-free - Detrended fluctuation analysis | Theory and Coding examples |
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic and Coding examples |
@@ -24,9 +24,9 @@
 
 ---
 
-## Module 3
+## Module 3 - Brain Clock Models
 
-| Brain Clock Models ||
+|||
 |---|---|
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity - O-info connectivity | Measures description |
