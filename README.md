@@ -1,2 +1,2 @@
-# EEG_workshop
+# EEG workshop
 EEG workshop
