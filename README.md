@@ -14,9 +14,8 @@
 
 ## Module 2 - Broadband arrhythmic activity in EEG signals
 
-| Topic | |
-|---|---|
 | Neuronal avalanches and criticality - Long-range temporal correlations - Scale-free - Detrended fluctuation analysis | Theory and Coding examples |
+|---|---|
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic and Coding examples |
 | EEG avalanches as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
 | Ultradian dynamics of salient events | Data analysis description |
