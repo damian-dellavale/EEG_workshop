@@ -24,7 +24,7 @@
 
 ---
 
-## Module 3
+## Module 3 - Brain Clock Models
 
 | Brain Clock Models ||
 |:---|:---|
