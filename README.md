@@ -4,7 +4,8 @@
 
 ## Module 1 - Oscillations in EEG signals
 
-| Topic | |
+|||
+|-|-|
 | Filtering, Hilbert transform | Theory and Analytic examples |
 | Coherence measures: Spectral coherence, PLV, wPLV, PPC | Measures description and Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC - Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
@@ -26,6 +27,7 @@
 ## Module 3 - Brain Clock Models
 
 |||
+|--|--|
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity - O-info connectivity | Measures description |
 | Regression model for building the clock - Methodological caveats | Measures description |
