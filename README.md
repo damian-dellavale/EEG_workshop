@@ -26,7 +26,7 @@
 
 ## Module 3
 
-| Brain Clock Models |
+| Brain Clock Models ||
 |:---|:---|
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity - O-info connectivity | Measures description |
