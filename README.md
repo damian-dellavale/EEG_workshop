@@ -32,3 +32,12 @@
 | Functional connectivity - O-info connectivity | Measures description |
 | Regression model for building the clock - Methodological caveats | Measures description |
 | Non-invasive biophysical neuromodulation to reduce functional brain aging | Data analysis description and Coding examples |
+
+## References
+
+Dellavale D, Velarde O, Mato G, Urdapilleta E (2020), Complex interplay between spectral harmonicity and different types of cross frequency couplings in non linear oscillators and biologically plausible neural network models, Physical Review E, 102(6), 062401.
+DOI: [10.1103/PhysRevE.102.062401](https://doi.org/10.1103/PhysRevE.102.062401)
+Code: [TLI algorithm](https://github.com/damian-dellavale/Time-Locked-Index)
+
+Ueda T, Garnier E, Dellavale D, Bartolomei F, Bénar CG (2025), Identification of the epileptogenic zone using phase-amplitude coupling on ictal electroencephalography: authentic or spurious PAC?, Clinical Neurophysiology 174, 151-159.
+DOI: [10.1016/j.clinph.2025.03.029](https://doi.org/10.1016/j.clinph.2025.03.029)
