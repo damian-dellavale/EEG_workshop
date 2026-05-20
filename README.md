@@ -1,5 +1,5 @@
 # EEG data analysis workshop
-<span style="font-size: 0.85em;">[Damián Dellavale](https://damian-dellavale.github.io/)</span>
+<span style="font-size: 0.5em;">[Damián Dellavale](https://damian-dellavale.github.io/)</span>
 ---
 
 ## Module 1 - Oscillations in EEG signals
