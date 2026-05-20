@@ -51,6 +51,7 @@
 ### Ideas for collaboration
 
 - [Brain clocks based on arrhythmic activity](https://tinyurl.com/AAIC2026SNE)
+- [Brain clocks and neuromodulation](https://tinyurl.com/NIBN4BA)
 
 ## References
 
