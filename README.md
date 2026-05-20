@@ -6,6 +6,8 @@
 ## Module 1 - Oscillations in EEG signals
 
 |Oscillations in EEG signals||
+|:---|:---|
+|||
 | Filtering, Hilbert transform | Theory and Analytic examples |
 | Coherence measures: Spectral coherence, PLV, wPLV, PPC | Measures description and Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC, Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
