@@ -19,7 +19,7 @@
 |:---|:---|
 | Neuronal avalanches and criticality, Long-range temporal correlations, Scale-free, Detrended fluctuation analysis | Theory and Coding examples |
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic and Coding examples |
-| EEG avalanches as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
+| Avalanche-like events in EEG as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
 | Ultradian dynamics of salient events | Examples of data analysis |
 
 ---
@@ -35,6 +35,8 @@
 
 ## References
 
+### Oscillations in EEG signals
+
 Dellavale D, Velarde O, Mato G, Urdapilleta E (2020), *Complex interplay between spectral harmonicity and different types of cross frequency couplings in non linear oscillators and biologically plausible neural network models*, Physical Review E, 102(6), 062401.
 DOI: [10.1103/PhysRevE.102.062401](https://doi.org/10.1103/PhysRevE.102.062401)\
 Code: [TLI algorithm](https://github.com/damian-dellavale/Time-Locked-Index)
@@ -44,3 +46,7 @@ DOI: [10.1016/j.clinph.2020.04.160](https://doi.org/10.1101/2020.03.13.991299)
 
 Ueda T, Garnier E, Dellavale D, Bartolomei F, Bénar CG (2025), *Identification of the epileptogenic zone using phase-amplitude coupling on ictal electroencephalography: authentic or spurious PAC?*, Clinical Neurophysiology 174, 151-159.
 DOI: [10.1016/j.clinph.2025.03.029](https://doi.org/10.1016/j.clinph.2025.03.029)
+
+### Broadband arrhythmic activity in EEG signals
+
+### Brain Clock Models

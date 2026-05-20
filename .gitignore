@@ -5,10 +5,17 @@ _program/
 
 #Ignore these particular files.
 
+Gmail - Re_ EEG workshop proposal.pdf
+
 google_folder_EEG_workshop.url
 istanbul_medipol_university.lnk
+bahar_guntekin.lnk
+lutfu_hanoglu.lnk
 
 #Ignore these file formats.
+
+*.lnk
+*.url
 
 #Include specific files.
 
