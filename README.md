@@ -18,7 +18,7 @@
 - [CFC and functional networks](https://doi.org/10.1371/journal.pbio.3000685)
 - [CFC and working memory](https://doi.org/10.1038/s41586-024-07309-z)
 - [CFC and neuromodulation](https://doi.org/10.34133/cbsystems.0034)
-- [Transcranial Temporal Interference](https://damian-dellavale.github.io/index.html#projects)
+- [Transcranial Temporal Interference Stimulation (tTIS)](https://damian-dellavale.github.io/index.html#projects)
 ---
 
 ## Module 2 - Broadband arrhythmic activity in EEG signals
