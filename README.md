@@ -5,6 +5,7 @@
 
 ## Module 1 - Oscillations in EEG signals
 
+|:---|:---|
 |Oscillations in EEG signals||
 |:---|:---|
 | Filtering, Hilbert transform | Theory and Analytic examples |
