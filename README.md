@@ -1,5 +1,5 @@
 # EEG data analysis workshop
-#### [Damián Dellavale](https://damian-dellavale.github.io/)
+#### by [Damián Dellavale](https://damian-dellavale.github.io/), [Sebastián Moguilner](https://www.gbhi.org/profiles/sebastian-moguilner) & [Agustín Ibáñez](https://www.gbhi.org/profiles/agustin-ibanez)
 
 ---
 
