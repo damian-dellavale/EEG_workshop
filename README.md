@@ -25,6 +25,7 @@
 
 |Broadband arrhythmic activity in EEG signals||
 |:---|:---|
+|||
 | Neuronal avalanches and criticality, Long-range temporal correlations, Scale-free, Detrended fluctuation analysis | Theory and Coding examples |
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic and Coding examples |
 | Avalanche-like events in EEG as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
@@ -41,6 +42,7 @@
 
 |Brain Clock Models||
 |:---|:---|
+|||
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity, O-info connectivity | Measures description |
 | Regression model for building the clock, Methodological caveats | Measures description |
