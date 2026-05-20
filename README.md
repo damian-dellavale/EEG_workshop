@@ -13,7 +13,10 @@
 
 ### Ideas for collaboration
 
-
+- [CFC and functional networks](https://doi.org/10.1371/journal.pbio.3000685)
+- [CFC and working memory](https://doi.org/10.1038/s41586-024-07309-z)
+- [CFC and neuromodulation](https://doi.org/10.34133/cbsystems.0034)
+- [Transcranial Temporal Interference](https://damian-dellavale.github.io/index.html#projects)
 ---
 
 ## Module 2 - Broadband arrhythmic activity in EEG signals
@@ -27,7 +30,8 @@
 
 ### Ideas for collaboration
 
-
+- [Ultradian dynamics of salient events in brain disorders](https://doi.org/10.1111/epi.17655)
+- [Avalanche-like events and neuromodulation](https://tinyurl.com/NIBN4BA)
 
 ---
 
@@ -42,7 +46,7 @@
 
 ### Ideas for collaboration
 
-
+- [Brain clocks based on arrhythmic activity](https://tinyurl.com/AAIC2026SNE)
 
 ## References
 
@@ -66,6 +70,9 @@ DOI: [10.1016/j.clinph.2025.03.029](https://doi.org/10.1016/j.clinph.2025.03.029
 
 Dellavale D, Troisi Lopez E, Romano A, Rabuffo G, Sorrentino P (2026), *Linking local and large-scale salient events with oscillatory and broadband arrhythmic activities in the resting human brain*, Imaging Neuroscience (Cambridge), 4:IMAG.a.1193.
 DOI: [10.1162/IMAG.a.1193](https://doi.org/10.1162/IMAG.a.1193)
+
+Dellavale D, et. al (2026), *Decoding the brain's symphony: Oscillations, broadband activity, and paroxysmal salient events in the human encephalographic activity*, 
+[Abstract No. 2026-DTA-11965-AAIC](https://tinyurl.com/AAIC2026SNE), Alzheimer's Association International Conference (AAIC), London, UK.
 
 ### Brain Clock Models
 
