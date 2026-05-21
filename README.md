@@ -79,6 +79,13 @@ DOI: [10.1162/IMAG.a.1193](https://doi.org/10.1162/IMAG.a.1193)
 Dellavale D, et. al (2026), *Decoding the brain's symphony: Oscillations, broadband activity, and paroxysmal salient events in the human encephalographic activity*, 
 [Abstract No. 2026-DTA-11965-AAIC](https://tinyurl.com/AAIC2026SNE), Alzheimer's Association International Conference (AAIC), London, UK.
 
+Dellavale D, Bonini F, Pizzo F, Makhalova J, Wendling F, Badier JM, Bartolomei F, Bénar CG (2023), *Spontaneous fast-ultradian dynamics of polymorphic interictal events in drug-resistant focal epilepsy*, Epilepsia 64(8), 2027-2043.
+DOI: [10.1111/epi.17655](https://doi.org/10.1111/epi.17655)
+medRxiv DOI: [10.1101/2023.04.05.23288085](https://doi.org/10.1101/2023.04.05.23288085)
+HAL open science: [hal-04148849](https://hal.science/hal-04148849)
+Researchgate: [Preprint including the discussion with the reviewers](https://www.researchgate.net/publication/370870703_Spontaneous_fast-ultradian_dynamics_of_polymorphic_interictal_events_in_drug-resistant_focal_epilepsy)
+Code: [NODE algorithm](https://github.com/damian-dellavale/node)
+
 ### Brain Clock Models
 
 Moguilner S & Ibanez A et al. (2024), *Brain clocks capture diversity and disparities in aging and dementia across geographically diverse populations*, Nature Medicine 30(12):3646-3657. 
