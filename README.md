@@ -65,7 +65,7 @@ Dellavale D, Urdapilleta E, Cámpora N, Velarde O, Kochen S, Mato G (2020), *Two
 DOI: [10.1016/j.clinph.2020.04.160](https://doi.org/10.1101/2020.03.13.991299)
 
 Velarde O, Urdapilleta E, Mato G, Dellavale D (2019), *Bifurcation structure determines different phase-amplitude coupling patterns in the activity of biologically plausible neural networks*, NeuroImage, 202, 116031.
-DOI: [10.1016/j.neuroimage.2019.116031](https://doi.org/10.1016/j.neuroimage.2019.116031)
+DOI: [10.1016/j.neuroimage.2019.116031](https://doi.org/10.1016/j.neuroimage.2019.116031)\
 On the cover: https://www.sciencedirect.com/journal/neuroimage/vol/202/
 
 Ueda T, Garnier E, Dellavale D, Bartolomei F, Bénar CG (2025), *Identification of the epileptogenic zone using phase-amplitude coupling on ictal electroencephalography: authentic or spurious PAC?*, Clinical Neurophysiology 174, 151-159.
@@ -79,11 +79,11 @@ DOI: [10.1162/IMAG.a.1193](https://doi.org/10.1162/IMAG.a.1193)
 Dellavale D, et. al (2026), *Decoding the brain's symphony: Oscillations, broadband activity, and paroxysmal salient events in the human encephalographic activity*, 
 [Abstract No. 2026-DTA-11965-AAIC](https://tinyurl.com/AAIC2026SNE), Alzheimer's Association International Conference (AAIC), London, UK.
 
-Dellavale D, Bonini F, Pizzo F, Makhalova J, Wendling F, Badier JM, Bartolomei F, Bénar CG (2023), *Spontaneous fast-ultradian dynamics of polymorphic interictal events in drug-resistant focal epilepsy*, Epilepsia 64(8), 2027-2043.
-DOI: [10.1111/epi.17655](https://doi.org/10.1111/epi.17655)
-medRxiv DOI: [10.1101/2023.04.05.23288085](https://doi.org/10.1101/2023.04.05.23288085)
-HAL open science: [hal-04148849](https://hal.science/hal-04148849)
-Researchgate: [Preprint including the discussion with the reviewers](https://www.researchgate.net/publication/370870703_Spontaneous_fast-ultradian_dynamics_of_polymorphic_interictal_events_in_drug-resistant_focal_epilepsy)
+Dellavale D, Bonini F, Pizzo F, Makhalova J, Wendling F, Badier JM, Bartolomei F, Bénar CG (2023), *Spontaneous fast-ultradian dynamics of polymorphic interictal events in drug-resistant focal epilepsy*, Epilepsia 64(8), 2027-2043.\
+DOI: [10.1111/epi.17655](https://doi.org/10.1111/epi.17655)\
+medRxiv DOI: [10.1101/2023.04.05.23288085](https://doi.org/10.1101/2023.04.05.23288085)\
+HAL open science: [hal-04148849](https://hal.science/hal-04148849)\
+Researchgate: [Preprint including the discussion with the reviewers](https://www.researchgate.net/publication/370870703_Spontaneous_fast-ultradian_dynamics_of_polymorphic_interictal_events_in_drug-resistant_focal_epilepsy)\
 Code: [NODE algorithm](https://github.com/damian-dellavale/node)
 
 ### Brain Clock Models
