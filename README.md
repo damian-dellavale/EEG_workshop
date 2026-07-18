@@ -99,5 +99,5 @@ Moguilner S & Ibanez A et al. (2024), *Brain clocks capture diversity and dispar
 DOI: [10.1038/s41591-024-03209-x](https://doi.org/10.1038/s41591-024-03209-x)\
 Tools: [osf.io/8zjf4](https://osf.io/8zjf4/)
 
-Dellavale D, et. al (2026), *Non-invasive Biophysical Neuromodulation To Reduce Functional Brain Aging*,\ 
+Dellavale D, et. al (2026), *Non-invasive Biophysical Neuromodulation To Reduce Functional Brain Aging*,.\ 
 [Abstract No. 2026-DTA-11908-AAIC](https://tinyurl.com/NIBN4BA), Alzheimer's Association International Conference (AAIC), London, UK.
