@@ -1,6 +1,6 @@
 # EEG data analysis workshop
+### [Programm](_program/EEG_workshop_v3.pdf)
 #### by [Damián Dellavale](https://damian-dellavale.github.io/), [Sebastián Moguilner](https://www.gbhi.org/profiles/sebastian-moguilner), [Carlos Coronel](https://www.gbhi.org/profiles/carlos-coronel), [Jhosmary Cuadros](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Jhosmary+Cuadros&btnG=), [Pavel Prado](https://www.pavelprado.com/), [Agustín Ibáñez](https://www.gbhi.org/profiles/agustin-ibanez)
-
 ---
 
 ## Module 1 - Oscillations in EEG signals
@@ -15,6 +15,7 @@
 
 ### Ideas for collaboration
 
+- [CFC directionality](http://dx.doi.org/10.1016/j.neuroimage.2015.05.044)
 - [CFC and functional networks](https://doi.org/10.1371/journal.pbio.3000685)
 - [CFC and working memory](https://doi.org/10.1038/s41586-024-07309-z)
 - [CFC and neuromodulation](https://doi.org/10.34133/cbsystems.0034)
