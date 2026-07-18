@@ -92,7 +92,7 @@ Code: [NODE algorithm](https://github.com/damian-dellavale/node)
 
 ### Brain Aging Models
 
-#Normative modeling based on structural MRI
+# Normative modeling based on structural MRI
 Rutherford S & Marquand AF et al. (2022), *The normative modeling framework for computational psychiatry*. Nat Protoc. 17(7):1711-1734.
 DOI: [10.1038/s41596-022-00696-5](https://doi.org/10.1038/s41596-022-00696-5)\
 Tools: [pcntoolkit.readthedocs.io](https://pcntoolkit.readthedocs.io/en/stable/)
@@ -100,11 +100,11 @@ Tools: [pcntoolkit.readthedocs.io](https://pcntoolkit.readthedocs.io/en/stable/)
 Rutherford S & Marquand AF et al. (2022), *Charting brain growth and aging at high spatial precision*, Elife Feb 1;11:e72904.
 DOI: [10.7554/eLife.72904](https://doi.org/10.7554/eLife.72904)
 
-#Normative modeling based on structural MEG
+# Normative modeling based on structural MEG
 Zamanzadeh M & Kia SM et al. (2026), *Normative modeling of MEG brain oscillations across the human lifespan*. Commun Biol. Mar 17;9(1):604. 
 DOI: [10.1038/s42003-026-09825-2](https://doi.org/10.1038/s42003-026-09825-2)
 
-#Normative modeling based on structural EEG
+# Normative modeling based on structural EEG
 Hu S & Valdes-Sosa PA et al. (2025), *GANORM: Lifespan Normative Modeling of EEG Network Topology based on Multinational Cross-Spectra*.
 DOI: [10.48550/arXiv.2506.02566](https://doi.org/10.48550/arXiv.2506.02566)
 
