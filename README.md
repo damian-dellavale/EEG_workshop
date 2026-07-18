@@ -38,9 +38,9 @@
 
 ---
 
-## Module 3 - Aging Models
+## Module 3 - Brain Aging Models
 
-|Aging Models||
+|Brain Aging Models||
 |:---|:---|
 |||
 | Normative modeling based on neuroimaging | Conceptual description |
@@ -89,7 +89,7 @@ HAL open science: [hal-04148849](https://hal.science/hal-04148849)\
 Researchgate: [Preprint including the discussion with the reviewers](https://www.researchgate.net/publication/370870703_Spontaneous_fast-ultradian_dynamics_of_polymorphic_interictal_events_in_drug-resistant_focal_epilepsy)\
 Code: [NODE algorithm](https://github.com/damian-dellavale/node)
 
-### Aging Models
+### Brain Aging Models
 
 Rutherford S & Marquand AF et al. (2022), *The normative modeling framework for computational psychiatry*. Nat Protoc. 17(7):1711-1734.
 DOI: [10.1038/s41596-022-00696-5](https://doi.org/10.1038/s41596-022-00696-5)\
