@@ -43,9 +43,9 @@
 |Aging Models||
 |:---|:---|
 |||
-| Normative modeling
-| Brain aging charts: Brain feature ~ Chronological age + covariates 
-| Brain Clock Models: Biological brain age ~ Brain feature(s)
+| Normative modeling | Background and rationale |
+| Brain aging charts: Brain feature ~ Chronological age + covariates | Background and rationale |
+| Brain Clock Models: Biological brain age ~ Brain feature(s) | Background and rationale |
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity, O-info connectivity | Measures description |
 | Regression model for building the clock, Methodological caveats | Measures description |
@@ -92,12 +92,12 @@ Code: [NODE algorithm](https://github.com/damian-dellavale/node)
 ### Aging Models
 
 Rutherford S & Marquand AF et al. (2022), *The normative modeling framework for computational psychiatry*. Nat Protoc. 17(7):1711-1734.
-DOI: [10.1038/s41596-022-00696-5](https://doi.org/10.1038/s41596-022-00696-5)
+DOI: [10.1038/s41596-022-00696-5](https://doi.org/10.1038/s41596-022-00696-5)\
 Tools: [pcntoolkit.readthedocs.io](https://pcntoolkit.readthedocs.io/en/stable/)
 
 Moguilner S & Ibanez A et al. (2024), *Brain clocks capture diversity and disparities in aging and dementia across geographically diverse populations*, Nature Medicine 30(12):3646-3657. 
-DOI: [10.1038/s41591-024-03209-x](https://doi.org/10.1038/s41591-024-03209-x)
+DOI: [10.1038/s41591-024-03209-x](https://doi.org/10.1038/s41591-024-03209-x)\
 Tools: [osf.io/8zjf4](https://osf.io/8zjf4/)
 
-Dellavale D, et. al (2026), *Non-invasive Biophysical Neuromodulation To Reduce Functional Brain Aging*, 
+Dellavale D, et. al (2026), *Non-invasive Biophysical Neuromodulation To Reduce Functional Brain Aging*,\ 
 [Abstract No. 2026-DTA-11908-AAIC](https://tinyurl.com/NIBN4BA), Alzheimer's Association International Conference (AAIC), London, UK.
