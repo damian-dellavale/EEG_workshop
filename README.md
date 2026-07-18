@@ -43,8 +43,8 @@
 |Aging Models||
 |:---|:---|
 |||
-| Normative modeling | Background and rationale |
-| Brain aging charts: Brain feature ~ Chronological age + covariates | Background and rationale |
+| Normative modeling based on neuroimaging | Conceptual description |
+| Brain aging charts: Brain feature ~ Chronological age + covariates | Conceptual description |
 | Brain Clock Models: Biological brain age ~ Brain feature(s) | Background and rationale |
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity, O-info connectivity | Measures description |
