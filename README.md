@@ -1,5 +1,5 @@
 # EEG data analysis workshop
-### [Programm & Schedule](_program/EEG_workshop_v3.pdf)
+### [Program & Schedule](_program/EEG_workshop_v3.pdf)
 #### by [Damián Dellavale](https://damian-dellavale.github.io/), [Sebastián Moguilner](https://www.gbhi.org/profiles/sebastian-moguilner), [Carlos Coronel](https://www.gbhi.org/profiles/carlos-coronel), [Jhosmary Cuadros](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Jhosmary+Cuadros&btnG=), [Pavel Prado](https://www.pavelprado.com/), [Agustín Ibáñez](https://www.gbhi.org/profiles/agustin-ibanez)
 ---
 
@@ -107,6 +107,8 @@ DOI: [10.1038/s42003-026-09825-2](https://doi.org/10.1038/s42003-026-09825-2)
 #### Normative modeling based on structural EEG
 Hu S & Valdes-Sosa PA et al. (2025), *GANORM: Lifespan Normative Modeling of EEG Network Topology based on Multinational Cross-Spectra*.
 DOI: [10.48550/arXiv.2506.02566](https://doi.org/10.48550/arXiv.2506.02566)
+
+#### Brain Clock Models
 
 Moguilner S & Ibanez A et al. (2024), *Brain clocks capture diversity and disparities in aging and dementia across geographically diverse populations*, Nature Medicine 30(12):3646-3657. 
 DOI: [10.1038/s41591-024-03209-x](https://doi.org/10.1038/s41591-024-03209-x)\
