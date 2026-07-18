@@ -1,6 +1,7 @@
 #Ignore these folders.
 
 _refs/
+_program/*
 _fligths_accommodation/
 
 #Ignore these particular files.
@@ -20,6 +21,4 @@ lutfu_hanoglu.lnk
 
 #Include specific files.
 
-_program/
-#_program/*
 #!_program/EEG_workshop_v3.pdf
