@@ -1,8 +1,9 @@
 #Ignore these folders.
 
 _refs/
-_program/*
 _fligths_accommodation/
+program/*
+oscillations/*
 
 #Ignore these particular files.
 
@@ -21,4 +22,4 @@ lutfu_hanoglu.lnk
 
 #Include specific files.
 
-!_program/EEG_workshop_v3.pdf
+!program/EEG_workshop_v3.pdf
