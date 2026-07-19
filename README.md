@@ -69,7 +69,7 @@ Dellavale D, Urdapilleta E, Cámpora N, Velarde O, Kochen S, Mato G (2020), *Two
 DOI: [10.1016/j.clinph.2020.04.160](https://doi.org/10.1101/2020.03.13.991299)
 
 Velarde O, Urdapilleta E, Mato G, Dellavale D (2019), *Bifurcation structure determines different phase-amplitude coupling patterns in the activity of biologically plausible neural networks*, NeuroImage, 202, 116031.\
-DOI: [10.1016/j.neuroimage.2019.116031](https://doi.org/10.1016/j.neuroimage.2019.116031)\
+DOI: [10.1016/j.neuroimage.2019.116031](https://doi.org/10.1016/j.neuroimage.2019.116031) 
 On the cover: https://www.sciencedirect.com/journal/neuroimage/vol/202/
 
 Ueda T, Garnier E, Dellavale D, Bartolomei F, Bénar CG (2025), *Identification of the epileptogenic zone using phase-amplitude coupling on ictal electroencephalography: authentic or spurious PAC?*, Clinical Neurophysiology 174, 151-159.\
