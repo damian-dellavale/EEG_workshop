@@ -8,10 +8,10 @@
 |Oscillations in EEG signals||
 |:---|:---|
 |||
-| Filtering, Hilbert transform | Theory and<br> Analytic examples |
-| Coherence measures: Spectral coherence, PLV, wPLV, PPC | Measures description and Coding examples |
+| Filtering, Hilbert transform | Theoretical background <br> Analytic examples |
+| Coherence measures: Spectral coherence, PLV, wPLV, PPC | Measures description <br> Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC, Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
-| Spectral harmonicity (TLI) | Measure description and Coding examples |
+| Spectral harmonicity (TLI) | Measure description <br> Coding examples |
 
 ### Ideas for collaboration
 
@@ -27,8 +27,8 @@
 |Broadband arrhythmic activity in EEG signals||
 |:---|:---|
 |||
-| Neuronal avalanches and criticality, Long-range temporal correlations, Scale-free, Detrended fluctuation analysis | Theory and Coding examples |
-| Linking oscillations and transient salient events: Spectral group delay consistency | Analytic and Coding examples |
+| Neuronal avalanches and criticality, Long-range temporal correlations, Scale-free, Detrended fluctuation analysis | Theoretical background <br> Analytic examples |
+| Linking oscillations and transient salient events: Spectral group delay consistency | Analytic examples <br> Coding examples |
 | Avalanche-like events in EEG as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
 | Ultradian dynamics of salient events | Examples of data analysis |
 
@@ -46,11 +46,11 @@
 |||
 | Normative modeling based on neuroimaging | Conceptual description |
 | Brain aging charts: Brain feature ~ Chronological age + Covariates | Conceptual description |
-| Brain clock models: Biological brain age ~ Brain feature(s) | Background and rationale |
-| Biological age vs. chronological age | Background and rationale |
+| Brain clock models: Biological brain age ~ Brain feature(s) | Conceptual description |
+| Biological age vs. chronological age | Conceptual description |
 | Functional connectivity, O-info connectivity | Measures description |
 | Regression model for building the clock, Methodological caveats | Measures description |
-| Non-invasive biophysical neuromodulation to reduce functional brain aging | Data analysis and Coding examples |
+| Non-invasive biophysical neuromodulation to reduce functional brain aging | Background and rationale <br> Coding examples |
 
 ### Ideas for collaboration
 
