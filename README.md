@@ -8,7 +8,7 @@
 |Oscillations in EEG signals||
 |:---|:---|
 |||
-| Filtering, Hilbert transform | Theory and Analytic examples |
+| Filtering, Hilbert transform | Theory and\ Analytic examples |
 | Coherence measures: Spectral coherence, PLV, wPLV, PPC | Measures description and Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC, Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
 | Spectral harmonicity (TLI) | Measure description and Coding examples |
@@ -39,14 +39,14 @@
 
 ---
 
-## Module 3 - Brain Aging Models
+## Module 3 - Brain aging models
 
-|Brain Aging Models||
+|Brain aging models||
 |:---|:---|
 |||
 | Normative modeling based on neuroimaging | Conceptual description |
 | Brain aging charts: Brain feature ~ Chronological age + Covariates | Conceptual description |
-| Brain Clock Models: Biological brain age ~ Brain feature(s) | Background and rationale |
+| Brain clock models: Biological brain age ~ Brain feature(s) | Background and rationale |
 | Biological age vs. chronological age | Background and rationale |
 | Functional connectivity, O-info connectivity | Measures description |
 | Regression model for building the clock, Methodological caveats | Measures description |
@@ -90,7 +90,7 @@ HAL open science: [hal-04148849](https://hal.science/hal-04148849)\
 Researchgate: [Preprint including the discussion with the reviewers](https://www.researchgate.net/publication/370870703_Spontaneous_fast-ultradian_dynamics_of_polymorphic_interictal_events_in_drug-resistant_focal_epilepsy)\
 Code: [NODE algorithm](https://github.com/damian-dellavale/node)
 
-### Brain Aging Models
+### Brain aging models
 
 #### Normative modeling based on structural MRI
 Rutherford S & Marquand AF et al. (2022), *The normative modeling framework for computational psychiatry*. Nat Protoc. 17(7):1711-1734.
@@ -108,7 +108,7 @@ DOI: [10.1038/s42003-026-09825-2](https://doi.org/10.1038/s42003-026-09825-2)
 Hu S & Valdes-Sosa PA et al. (2025), *GANORM: Lifespan Normative Modeling of EEG Network Topology based on Multinational Cross-Spectra*.
 DOI: [10.48550/arXiv.2506.02566](https://doi.org/10.48550/arXiv.2506.02566)
 
-#### Brain Clock Models
+#### Brain clock models
 
 Moguilner S & Ibanez A et al. (2024), *Brain clocks capture diversity and disparities in aging and dementia across geographically diverse populations*, Nature Medicine 30(12):3646-3657. 
 DOI: [10.1038/s41591-024-03209-x](https://doi.org/10.1038/s41591-024-03209-x)\
