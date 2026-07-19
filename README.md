@@ -8,7 +8,7 @@
 |Oscillations in EEG signals||
 |:---|:---|
 |||
-| Filtering, Hilbert transform | Theory and\ Analytic examples |
+| Filtering, Hilbert transform | Theory and<br> Analytic examples |
 | Coherence measures: Spectral coherence, PLV, wPLV, PPC | Measures description and Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC, Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
 | Spectral harmonicity (TLI) | Measure description and Coding examples |
