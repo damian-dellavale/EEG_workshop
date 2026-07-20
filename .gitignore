@@ -4,6 +4,8 @@ _refs/
 _fligths_accommodation/
 program/*
 oscillations/*
+arrhythmic/*
+clocks/*
 
 #Ignore these particular files.
 
