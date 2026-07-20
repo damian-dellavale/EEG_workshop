@@ -13,6 +13,14 @@
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC, Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
 | Spectral harmonicity (TLI) | Measure description <br> Coding examples |
 
+### Resources
+
+[Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
+
+[Analyzing the Response of an RLC Circuit (Matlab)](https://www.mathworks.com/help/control/ug/analyzing-the-response-of-an-rlc-circuit.html)
+[Simulating Electrical Circuits](https://siliconwit.com/education/modeling-and-simulation/simulating-electrical-circuits/)
+[RLC Filter](https://pyspice.fabrice-salvaire.fr/releases/v1.4/examples/filter/rlc-filter.html)
+
 ### Ideas for collaboration
 
 - [CFC directionality](http://dx.doi.org/10.1016/j.neuroimage.2015.05.044)
@@ -31,6 +39,10 @@
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic examples <br> Coding examples |
 | Avalanche-like events in EEG as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
 | Ultradian dynamics of salient events | Examples of data analysis |
+
+### Resources
+
+[Shared Resources for module 2](https://drive.google.com/drive/folders/1xvqX1Z73UU01DlEEpQV6BEUFv9PTK5rM)
 
 ### Ideas for collaboration
 
@@ -51,6 +63,10 @@
 | Functional connectivity, O-info connectivity | Measures description |
 | Regression model for building the clock, Methodological caveats | Measures description |
 | Non-invasive biophysical neuromodulation to reduce functional brain aging | Background and rationale <br> Coding examples |
+
+### Resources
+
+[Shared Resources for module 3](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)
 
 ### Ideas for collaboration
 
