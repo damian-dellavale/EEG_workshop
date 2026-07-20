@@ -1,5 +1,5 @@
 # EEG data analysis workshop
-### [Program & Schedule](_program/EEG_workshop_v3.pdf)
+### [Program & Schedule](program/EEG_workshop_v3.pdf)
 #### by [Damián Dellavale](https://damian-dellavale.github.io/), [Sebastián Moguilner](https://www.gbhi.org/profiles/sebastian-moguilner), [Carlos Coronel](https://www.gbhi.org/profiles/carlos-coronel), [Jhosmary Cuadros](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Jhosmary+Cuadros&btnG=), [Pavel Prado](https://www.pavelprado.com/), [Agustín Ibáñez](https://www.gbhi.org/profiles/agustin-ibanez)
 ---
 
