@@ -18,8 +18,8 @@
 [Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
 
 [Analyzing the Response of an RLC Circuit (Matlab)](https://www.mathworks.com/help/control/ug/analyzing-the-response-of-an-rlc-circuit.html)\
-[Simulating Electrical Circuits](https://siliconwit.com/education/modeling-and-simulation/simulating-electrical-circuits/)\
-[RLC Filter](https://pyspice.fabrice-salvaire.fr/releases/v1.4/examples/filter/rlc-filter.html)
+[Simulating Electrical Circuits (Python)](https://siliconwit.com/education/modeling-and-simulation/simulating-electrical-circuits/)\
+[RLC Filter (Python)](https://pyspice.fabrice-salvaire.fr/releases/v1.4/examples/filter/rlc-filter.html)
 
 ### Ideas for collaboration
 
