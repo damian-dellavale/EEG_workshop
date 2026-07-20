@@ -50,6 +50,8 @@
 - [Ultradian dynamics of salient events in brain disorders](https://doi.org/10.1111/epi.17655)
 - [Avalanche-like events and neuromodulation](https://tinyurl.com/NIBN4BA)
 
+<img src="arrhythmic/sgdc/designcoding_v14_zero_phase_2.gif" alt="arrhythmic/sgdc/designcoding_v14_zero_phase_2.gif" width="600"/>
+
 ---
 
 ## Module 3 - Brain aging models
