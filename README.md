@@ -21,6 +21,7 @@
 [Analyzing the Response of an RLC Circuit (Matlab)](https://www.mathworks.com/help/control/ug/analyzing-the-response-of-an-rlc-circuit.html)\
 [Simulating Electrical Circuits (Python)](https://siliconwit.com/education/modeling-and-simulation/simulating-electrical-circuits/)\
 [RLC Filter (Python)](https://pyspice.fabrice-salvaire.fr/releases/v1.4/examples/filter/rlc-filter.html)
+[Notch filter (Python)](https://docs.scipy.org/doc/scipy-1.18.0/reference/generated/scipy.signal.iirnotch.html)
 
 ### Ideas for collaboration
 
