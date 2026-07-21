@@ -21,7 +21,11 @@
 [Analyzing the Response of an RLC Circuit (Matlab)](https://www.mathworks.com/help/control/ug/analyzing-the-response-of-an-rlc-circuit.html)\
 [Simulating Electrical Circuits (Python)](https://siliconwit.com/education/modeling-and-simulation/simulating-electrical-circuits/)\
 [RLC Filter (Python)](https://pyspice.fabrice-salvaire.fr/releases/v1.4/examples/filter/rlc-filter.html)\
-[Notch filter (Python)](https://docs.scipy.org/doc/scipy-1.18.0/reference/generated/scipy.signal.iirnotch.html)
+[Notch filter (Python)](https://docs.scipy.org/doc/scipy-1.18.0/reference/generated/scipy.signal.iirnotch.html)\
+[EEGLAB: Firfilt](https://eeglab.org/others/Firfilt_FAQ.html)\
+[EEGLAB: Filtering](https://eeglab.org/tutorials/05_Preprocess/Filtering.html)\
+[EEGLAB: Cleanline](https://eeglab.org/plugins/cleanline/)\
+[NITRC: Cleanline](https://www.nitrc.org/projects/cleanline)
 
 ### Ideas for collaboration
 
@@ -111,6 +115,8 @@ DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:
 [MNE-Python](https://mne.tools/stable/index.html)
 
 [BRAINSTORM](https://neuroimage.usc.edu/brainstorm/Tutorials)
+
+[Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
 
 [Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC?usp=sharing)
 
