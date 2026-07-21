@@ -79,6 +79,57 @@
 
 ## References
 
+### Biophysics of EEG signals
+
+Nunez, P.L., & Srinivasan, R. (2006). Electric Fields of the Brain: The Neurophysics of EEG (2nd ed.). Oxford University Press. ISBN: 9780195050387,
+DOI: [10.1093/acprof:oso/9780195050387.001.0001](https://doi.org/10.1093/acprof:oso/9780195050387.001.0001)
+
+Malmivuo J, Plonsey R (1995). Bioelectromagnetism: Principles and Applications of Bioelectric and Biomagnetic Fields. Oxford University Press. ISBN: 9780195058239.
+DOI: [10.1093/acprof:oso/9780195058239.001.0001](https://doi.org/10.1093/acprof:oso/9780195058239.001.0001)
+URL: [https://www.bem.fi/book/](https://www.bem.fi/book/)
+
+Buzsáki, G. (2006). Rhythms of the brain. Oxford University Press. ISBN: 9780195301069,
+DOI [10.1093/acprof:oso/9780195301069.001.0001](https://doi.org/10.1093/acprof:oso/9780195301069.001.0001)
+
+### Analysis of EEG signals
+
+Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press. ISBN: 9780262019873.
+DOI: [10.7551/mitpress/9609.001.0001](https://doi.org/10.7551/mitpress/9609.001.0001)
+[Matlab code](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)
+[Youtube channel](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ)
+
+Mitra P, & Bokil H. (2008). Observed brain dynamics. Oxford University Press. ISBN: 9780195178081.
+DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:oso/9780195178081.001.0001)
+[chronux.org](https://chronux.org/)
+
+### Open-source toolboxes
+
+[EEGLAB](https://eeglab.org/tutorials/)
+
+[FIELDTRIP](https://www.fieldtriptoolbox.org/tutorial/)
+
+[MNE-Python](https://mne.tools/stable/index.html)
+
+[BRAINSTORM](https://neuroimage.usc.edu/brainstorm/Tutorials)
+
+[Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC?usp=sharing)
+
+[Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm?usp=drive_link)
+
+### EEG community initiatives
+
+[learningeeg.com](https://www.learningeeg.com/)
+
+[globalbrainconsortium.org](https://globalbrainconsortium.org/projects/)
+
+[eegmanylabs.org](https://eegmanylabs.org/)
+
+[eeg100.org](https://eeg100.org/)
+
+[eeg101.eu](https://www.eeg101.eu/)
+
+[teleeeg.org](https://www.teleeeg.org/)
+
 ### Oscillations in EEG signals
 
 Dellavale D, Velarde O, Mato G, Urdapilleta E (2020), *Complex interplay between spectral harmonicity and different types of cross frequency couplings in non linear oscillators and biologically plausible neural network models*, Physical Review E, 102(6), 062401.
