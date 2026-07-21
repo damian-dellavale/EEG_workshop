@@ -85,21 +85,21 @@ Nunez, P.L., & Srinivasan, R. (2006). Electric Fields of the Brain: The Neurophy
 DOI: [10.1093/acprof:oso/9780195050387.001.0001](https://doi.org/10.1093/acprof:oso/9780195050387.001.0001)
 
 Malmivuo J, Plonsey R (1995). Bioelectromagnetism: Principles and Applications of Bioelectric and Biomagnetic Fields. Oxford University Press. ISBN: 9780195058239.
-DOI: [10.1093/acprof:oso/9780195058239.001.0001](https://doi.org/10.1093/acprof:oso/9780195058239.001.0001)
+DOI: [10.1093/acprof:oso/9780195058239.001.0001](https://doi.org/10.1093/acprof:oso/9780195058239.001.0001)\
 URL: [https://www.bem.fi/book/](https://www.bem.fi/book/)
 
-Buzsáki, G. (2006). Rhythms of the brain. Oxford University Press. ISBN: 9780195301069,
-DOI [10.1093/acprof:oso/9780195301069.001.0001](https://doi.org/10.1093/acprof:oso/9780195301069.001.0001)
+Buzsáki, G. (2006). Rhythms of the brain. Oxford University Press. ISBN: 9780195301069,<br>
+DOI: [10.1093/acprof:oso/9780195301069.001.0001](https://doi.org/10.1093/acprof:oso/9780195301069.001.0001)
 
 ### Analysis of EEG signals
 
-Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press. ISBN: 9780262019873.
-DOI: [10.7551/mitpress/9609.001.0001](https://doi.org/10.7551/mitpress/9609.001.0001)
-[Matlab code](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)
+Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press. ISBN: 9780262019873.<br>
+DOI: [10.7551/mitpress/9609.001.0001](https://doi.org/10.7551/mitpress/9609.001.0001)\
+[Matlab code](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)\
 [Youtube channel](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ)
 
-Mitra P, & Bokil H. (2008). Observed brain dynamics. Oxford University Press. ISBN: 9780195178081.
-DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:oso/9780195178081.001.0001)
+Mitra P, & Bokil H. (2008). Observed brain dynamics. Oxford University Press. ISBN: 9780195178081.<br>
+DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:oso/9780195178081.001.0001)\
 [chronux.org](https://chronux.org/)
 
 ### Open-source toolboxes
