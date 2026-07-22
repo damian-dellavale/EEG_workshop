@@ -1,7 +1,7 @@
 # EEG data analysis workshop
 ### [Program & Schedule](program/EEG_workshop_v3.pdf)
 #### by [Damián Dellavale](https://damian-dellavale.github.io/), [Sebastián Moguilner](https://www.gbhi.org/profiles/sebastian-moguilner), [Carlos Coronel](https://www.gbhi.org/profiles/carlos-coronel), [Jhosmary Cuadros](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Jhosmary+Cuadros&btnG=), [Pavel Prado](https://www.pavelprado.com/), [Agustín Ibáñez](https://www.gbhi.org/profiles/agustin-ibanez)
-#### [damian.dellavale [at] atlanticfellows.org](https://damian-dellavale.github.io/)
+#### [damian.dellavale [at] gbhi.org](https://damian-dellavale.github.io/)
 ---
 
 ## Module 1 - Oscillations in EEG signals
@@ -17,15 +17,6 @@
 ### Resources
 
 [Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
-
-[Analyzing the Response of an RLC Circuit (Matlab)](https://www.mathworks.com/help/control/ug/analyzing-the-response-of-an-rlc-circuit.html)\
-[Simulating Electrical Circuits (Python)](https://siliconwit.com/education/modeling-and-simulation/simulating-electrical-circuits/)\
-[RLC Filter (Python)](https://pyspice.fabrice-salvaire.fr/releases/v1.4/examples/filter/rlc-filter.html)\
-[Notch filter (Python)](https://docs.scipy.org/doc/scipy-1.18.0/reference/generated/scipy.signal.iirnotch.html)\
-[EEGLAB: Firfilt](https://eeglab.org/others/Firfilt_FAQ.html)\
-[EEGLAB: Filtering](https://eeglab.org/tutorials/05_Preprocess/Filtering.html)\
-[EEGLAB: Cleanline](https://eeglab.org/plugins/cleanline/)\
-[NITRC: Cleanline](https://www.nitrc.org/projects/cleanline)
 
 ### Ideas for collaboration
 
