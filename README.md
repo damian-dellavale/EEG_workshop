@@ -72,6 +72,15 @@
 
 [Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)
 
+[Claude Code](https://claude.com/product/claude-code)
+[OpenAI Codex](https://openai.com/codex/)
+[GitHub Copilot](https://github.com/features/copilot)
+
+[Matlab to Python code convert](https://www.codeconvert.ai/matlab-to-python-converter)
+[Matlab to Python coding fleet](https://codingfleet.com/code-converter/matlab/python/)
+
+[Call Matlab from Python](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)
+
 ## References
 
 ### Biophysics of EEG signals
