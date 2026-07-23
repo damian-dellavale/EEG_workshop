@@ -62,24 +62,24 @@
 
 ## Resources
 
-[Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)\
+- [Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
 
-[Shared Resources for module 2](https://drive.google.com/drive/folders/1xvqX1Z73UU01DlEEpQV6BEUFv9PTK5rM)\
+- [Shared Resources for module 2](https://drive.google.com/drive/folders/1xvqX1Z73UU01DlEEpQV6BEUFv9PTK5rM)
 
-[Shared Resources for module 3](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)\
+- [Shared Resources for module 3](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)
 
-[Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)\
+- [Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)
 
-[Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)\
+- [Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)
 
-[Claude Code](https://claude.com/product/claude-code)\
-[OpenAI Codex](https://openai.com/codex/)\
-[GitHub Copilot](https://github.com/features/copilot)\
+- [Claude Code](https://claude.com/product/claude-code)
+- [OpenAI Codex](https://openai.com/codex/)\
+- [GitHub Copilot](https://github.com/features/copilot)
 
-[Matlab to Python code convert](https://www.codeconvert.ai/matlab-to-python-converter)\
-[Matlab to Python coding fleet](https://codingfleet.com/code-converter/matlab/python/)\
+- [Matlab to Python code convert](https://www.codeconvert.ai/matlab-to-python-converter)
+- [Matlab to Python coding fleet](https://codingfleet.com/code-converter/matlab/python/)
 
-[Call Matlab from Python](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)
+- [Call Matlab from Python](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)
 
 ## References
 
@@ -108,29 +108,29 @@ DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:
 
 ### Open-source toolboxes
 
-[EEGLAB](https://eeglab.org/tutorials/)
+- [EEGLAB](https://eeglab.org/tutorials/)
 
-[FIELDTRIP](https://www.fieldtriptoolbox.org/tutorial/)
+- [FIELDTRIP](https://www.fieldtriptoolbox.org/tutorial/)
 
-[MNE-Python](https://mne.tools/stable/index.html)
+- [MNE-Python](https://mne.tools/stable/index.html)
 
-[BRAINSTORM](https://neuroimage.usc.edu/brainstorm/Tutorials)
+- [BRAINSTORM](https://neuroimage.usc.edu/brainstorm/Tutorials)
 
-[Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
+- [Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
 
 ### EEG community initiatives
 
-[learningeeg.com](https://www.learningeeg.com/)
+- [learningeeg.com](https://www.learningeeg.com/)
 
-[globalbrainconsortium.org](https://globalbrainconsortium.org/projects/)
+- [globalbrainconsortium.org](https://globalbrainconsortium.org/projects/)
 
-[eegmanylabs.org](https://eegmanylabs.org/)
+- [eegmanylabs.org](https://eegmanylabs.org/)
 
-[eeg100.org](https://eeg100.org/)
+- [eeg100.org](https://eeg100.org/)
 
-[eeg101.eu](https://www.eeg101.eu/)
+- [eeg101.eu](https://www.eeg101.eu/)
 
-[teleeeg.org](https://www.teleeeg.org/)
+- [teleeeg.org](https://www.teleeeg.org/)
 
 ### Oscillations in EEG signals
 
