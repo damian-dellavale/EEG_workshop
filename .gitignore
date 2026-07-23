@@ -2,6 +2,7 @@
 
 _refs/
 _fligths_accommodation/
+qr/*
 python/
 matlab/
 program/*
@@ -27,3 +28,4 @@ lutfu_hanoglu.lnk
 #Include specific files.
 
 !program/EEG_workshop_v3.pdf
+!qr/EEG_workshop_qr-code_circles.png
