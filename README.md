@@ -97,7 +97,7 @@ DOI: [10.1093/acprof:oso/9780195301069.001.0001](https://doi.org/10.1093/acprof:
 
 ### Analysis of EEG signals
 
-Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press. ISBN: 9780262019873.<br>
+Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press. ISBN: 9780262019873.\
 DOI: [10.7551/mitpress/9609.001.0001](https://doi.org/10.7551/mitpress/9609.001.0001)\
 [Matlab code](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)\
 [Youtube channel](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ)
