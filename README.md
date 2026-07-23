@@ -62,22 +62,22 @@
 
 ## Resources
 
-[Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
+[Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)\
 
-[Shared Resources for module 2](https://drive.google.com/drive/folders/1xvqX1Z73UU01DlEEpQV6BEUFv9PTK5rM)
+[Shared Resources for module 2](https://drive.google.com/drive/folders/1xvqX1Z73UU01DlEEpQV6BEUFv9PTK5rM)\
 
-[Shared Resources for module 3](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)
+[Shared Resources for module 3](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)\
 
-[Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)
+[Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)\
 
-[Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)
+[Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)\
 
-[Claude Code](https://claude.com/product/claude-code)
-[OpenAI Codex](https://openai.com/codex/)
-[GitHub Copilot](https://github.com/features/copilot)
+[Claude Code](https://claude.com/product/claude-code)\
+[OpenAI Codex](https://openai.com/codex/)\
+[GitHub Copilot](https://github.com/features/copilot)\
 
-[Matlab to Python code convert](https://www.codeconvert.ai/matlab-to-python-converter)
-[Matlab to Python coding fleet](https://codingfleet.com/code-converter/matlab/python/)
+[Matlab to Python code convert](https://www.codeconvert.ai/matlab-to-python-converter)\
+[Matlab to Python coding fleet](https://codingfleet.com/code-converter/matlab/python/)\
 
 [Call Matlab from Python](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)
 
