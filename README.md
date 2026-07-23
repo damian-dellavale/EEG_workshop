@@ -92,7 +92,7 @@ Malmivuo J, Plonsey R (1995). Bioelectromagnetism: Principles and Applications o
 DOI: [10.1093/acprof:oso/9780195058239.001.0001](https://doi.org/10.1093/acprof:oso/9780195058239.001.0001)\
 URL: [https://www.bem.fi/book/](https://www.bem.fi/book/)
 
-Buzsáki, G. (2006). Rhythms of the brain. Oxford University Press. ISBN: 9780195301069,<br>
+Buzsáki, G. (2006). Rhythms of the brain. Oxford University Press. ISBN: 9780195301069,\
 DOI: [10.1093/acprof:oso/9780195301069.001.0001](https://doi.org/10.1093/acprof:oso/9780195301069.001.0001)
 
 ### Analysis of EEG signals
@@ -102,7 +102,7 @@ DOI: [10.7551/mitpress/9609.001.0001](https://doi.org/10.7551/mitpress/9609.001.
 [Matlab code](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)\
 [Youtube channel](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ)
 
-Mitra P, & Bokil H. (2008). Observed brain dynamics. Oxford University Press. ISBN: 9780195178081.<br>
+Mitra P, & Bokil H. (2008). Observed brain dynamics. Oxford University Press. ISBN: 9780195178081.\
 DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:oso/9780195178081.001.0001)\
 [chronux.org](https://chronux.org/)
 
@@ -187,5 +187,5 @@ Moguilner S & Ibanez A et al. (2024), *Brain clocks capture diversity and dispar
 DOI: [10.1038/s41591-024-03209-x](https://doi.org/10.1038/s41591-024-03209-x)\
 Tools: [osf.io/8zjf4](https://osf.io/8zjf4/)
 
-Dellavale D, et. al (2026), *Non-invasive Biophysical Neuromodulation To Reduce Functional Brain Aging*,<br> 
+Dellavale D, et. al (2026), *Non-invasive Biophysical Neuromodulation To Reduce Functional Brain Aging*,\
 [Abstract No. 2026-DTA-11908-AAIC](https://tinyurl.com/NIBN4BA), Alzheimer's Association International Conference (AAIC), London, UK.
