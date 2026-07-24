@@ -14,6 +14,7 @@
 | Filtering, Hilbert transform | Theoretical background <br> Analytic examples |
 | Coherence measures: Spectral coherence, PLV, wPLV, PPC, PLI, wPLI | Measures description <br> Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC, Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
+| Phase Clustering (PC) | Measures description <br> Coding examples |
 | Spectral harmonicity (TLI) | Measure description <br> Coding examples |
 
 ### Ideas for collaboration
