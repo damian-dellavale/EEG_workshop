@@ -17,6 +17,8 @@
 | Phase Clustering (PC) | Measures description <br> Coding examples |
 | Spectral harmonicity (TLI) | Measure description <br> Coding examples |
 
+- [Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
+
 ### Ideas for collaboration
 
 - [CFC directionality](http://dx.doi.org/10.1016/j.neuroimage.2015.05.044)
@@ -35,6 +37,8 @@
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic examples <br> Coding examples |
 | Avalanche-like events in EEG as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
 | Ultradian dynamics of salient events | Examples of data analysis |
+
+- [Shared Resources for module 2](https://drive.google.com/drive/folders/1xvqX1Z73UU01DlEEpQV6BEUFv9PTK5rM)
 
 ### Ideas for collaboration
 
@@ -58,18 +62,14 @@
 | Regression model for building the clock, Methodological caveats | Measures description |
 | Non-invasive biophysical neuromodulation to reduce functional brain aging | Background and rationale <br> Coding examples |
 
+- [Shared Resources for module 3](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)
+
 ### Ideas for collaboration
 
 - [Brain clocks based on arrhythmic activity](https://tinyurl.com/AAIC2026SNE)
 - [Brain clocks and neuromodulation](https://tinyurl.com/NIBN4BA)
 
 ## Resources
-
-- [Shared Resources for module 1](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
-
-- [Shared Resources for module 2](https://drive.google.com/drive/folders/1xvqX1Z73UU01DlEEpQV6BEUFv9PTK5rM)
-
-- [Shared Resources for module 3](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)
 
 - [Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)
 
