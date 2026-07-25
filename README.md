@@ -48,6 +48,8 @@
 
 <img src="arrhythmic/sgdc/designcoding_v14_zero_phase_2.gif" alt="arrhythmic/sgdc/designcoding_v14_zero_phase_2.gif" width="275"/> <img src="arrhythmic/sgdc/designcoding_v14_linear_phase_2.gif" alt="arrhythmic/sgdc/designcoding_v14_linear_phase_2.gif" width="275"/> <img src="arrhythmic/sgdc/designcoding_v14_sgdc_phase_2.gif" alt="arrhythmic/sgdc/designcoding_v14_sgdc_phase_2.gif" width="275"/>
 
+[myfourierepicycles](https://www.myfourierepicycles.com/)
+
 ---
 
 ## Module 3 - Brain aging models
