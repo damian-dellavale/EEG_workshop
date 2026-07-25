@@ -75,6 +75,20 @@
 
 - [Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)
 
+### Open-source toolboxes
+
+- [EEGLAB tutorials](https://eeglab.org/tutorials/)
+
+- [FIELDTRIP tutorials](https://www.fieldtriptoolbox.org/tutorial/)
+
+- [MNE-Python tutorials](https://mne.tools/stable/documentation/index.html)
+
+- [BRAINSTORM tutorials](https://neuroimage.usc.edu/brainstorm/Tutorials)
+
+- [Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
+
+### AI tools for code conversion
+
 - [Claude Code](https://claude.com/product/claude-code)
 - [OpenAI Codex](https://openai.com/codex/)
 - [GitHub Copilot](https://github.com/features/copilot)
@@ -83,6 +97,20 @@
 - [Matlab to Python coding fleet](https://codingfleet.com/code-converter/matlab/python/)
 
 - [Call Matlab from Python](https://www.mathworks.com/help/matlab/matlab-engine-for-python.html)
+
+### EEG community initiatives
+
+- [learningeeg.com](https://www.learningeeg.com/)
+
+- [globalbrainconsortium.org](https://globalbrainconsortium.org/projects/)
+
+- [eegmanylabs.org](https://eegmanylabs.org/)
+
+- [eeg100.org](https://eeg100.org/)
+
+- [eeg101.eu](https://www.eeg101.eu/)
+
+- [teleeeg.org](https://www.teleeeg.org/)
 
 ## References
 
@@ -108,32 +136,6 @@ DOI: [10.7551/mitpress/9609.001.0001](https://doi.org/10.7551/mitpress/9609.001.
 Mitra P, & Bokil H. (2008). Observed brain dynamics. Oxford University Press. ISBN: 9780195178081.\
 DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:oso/9780195178081.001.0001)\
 [chronux.org](https://chronux.org/)
-
-### Open-source toolboxes
-
-- [EEGLAB tutorials](https://eeglab.org/tutorials/)
-
-- [FIELDTRIP tutorials](https://www.fieldtriptoolbox.org/tutorial/)
-
-- [MNE-Python tutorials](https://mne.tools/stable/documentation/index.html)
-
-- [BRAINSTORM tutorials](https://neuroimage.usc.edu/brainstorm/Tutorials)
-
-- [Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
-
-### EEG community initiatives
-
-- [learningeeg.com](https://www.learningeeg.com/)
-
-- [globalbrainconsortium.org](https://globalbrainconsortium.org/projects/)
-
-- [eegmanylabs.org](https://eegmanylabs.org/)
-
-- [eeg100.org](https://eeg100.org/)
-
-- [eeg101.eu](https://www.eeg101.eu/)
-
-- [teleeeg.org](https://www.teleeeg.org/)
 
 ### Oscillations in EEG signals
 
