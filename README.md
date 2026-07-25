@@ -111,13 +111,13 @@ DOI: [10.1093/acprof:oso/9780195178081.001.0001](https://doi.org/10.1093/acprof:
 
 ### Open-source toolboxes
 
-- [EEGLAB](https://eeglab.org/tutorials/)
+- [EEGLAB tutorials](https://eeglab.org/tutorials/)
 
-- [FIELDTRIP](https://www.fieldtriptoolbox.org/tutorial/)
+- [FIELDTRIP tutorials](https://www.fieldtriptoolbox.org/tutorial/)
 
-- [MNE-Python](https://mne.tools/stable/index.html)
+- [MNE-Python tutorials](https://mne.tools/stable/documentation/index.html)
 
-- [BRAINSTORM](https://neuroimage.usc.edu/brainstorm/Tutorials)
+- [BRAINSTORM tutorials](https://neuroimage.usc.edu/brainstorm/Tutorials)
 
 - [Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
 
