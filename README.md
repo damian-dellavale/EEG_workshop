@@ -97,9 +97,9 @@
 
 - [NeuroKit (Python)](https://github.com/neuropsychology/NeuroKit)
 
-- [Brain Connectivity Toolbox (Datasets and Demos)](https://sites.google.com/site/bctnet/datasets-and-demos)
-
 - [EEGraph (Python)](https://github.com/ufvceiec/EEGRAPH)
+
+- [Brain Connectivity Toolbox (Datasets and Demos)](https://sites.google.com/site/bctnet/datasets-and-demos)
 
 ### Open datasets
 
@@ -172,6 +172,11 @@ On the cover: https://www.sciencedirect.com/journal/neuroimage/vol/202/
 
 Ueda T, Garnier E, Dellavale D, Bartolomei F, Bénar CG (2025), *Identification of the epileptogenic zone using phase-amplitude coupling on ictal electroencephalography: authentic or spurious PAC?*, Clinical Neurophysiology 174, 151-159.\
 DOI: [10.1016/j.clinph.2025.03.029](https://doi.org/10.1016/j.clinph.2025.03.029)
+
+Combrisson E, Nest T, Brovelli A, Ince RAA, Soto JLP, Guillot A, Jerbi K. Tensorpac: An open-source Python toolbox for tensor-based phase-amplitude coupling measurement in electrophysiological brain signals. PLoS Comput Biol. 2020 Oct 29;16(10):e1008302.\
+DOI: [10.1371/journal.pcbi.1008302](https://doi.org/10.1371/journal.pcbi.1008302)
+Code: [tensorpac](https://github.com/EtienneCmb/tensorpac)
+[pacpy](https://github.com/voytekresearch/pacpy/)
 
 ### Broadband arrhythmic activity in EEG signals
 
