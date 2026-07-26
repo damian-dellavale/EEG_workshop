@@ -28,7 +28,7 @@
 - [Assessing cortical excitability using EEG and tES](https://damian-dellavale.github.io/index.html#projects)
 - [Transcranial temporal interference stimulation (tTIS)](https://damian-dellavale.github.io/index.html#projects)
 
-[CFC video](oscillations/cfc/videos/sz4_10ShuffleSignals_PSD_completo.mp4)
+[CFC in SEEG video](oscillations/cfc/videos/sz4_10ShuffleSignals_PSD_completo.mp4)
 ---
 
 ## Module 2 - Broadband arrhythmic activity in EEG signals
