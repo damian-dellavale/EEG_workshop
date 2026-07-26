@@ -90,11 +90,19 @@
 
 - [Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
 
-- [ERPLAB Info](https://erpinfo.org/)
-&nbsp;[ERPLAB Toolbox](https://erpinfo.org/erplab)
+- [ERPLAB Info](https://erpinfo.org/)\
+&nbsp;[ERPLAB Toolbox](https://erpinfo.org/erplab)\
 &nbsp;[ERPLAB Github](https://github.com/ucdavis/erplab)
 
+- [NeuroKit (Python)](https://github.com/neuropsychology/NeuroKit)
+
 - [Brain Connectivity Toolbox (Datasets and Demos)](https://sites.google.com/site/bctnet/datasets-and-demos)
+
+- [EEGraph (Python)](https://github.com/ufvceiec/EEGRAPH)
+
+### Open datasets
+
+[Resting State EEG Data from Patients with Parkinson's Disease](https://openneuro.org/datasets/ds002778/versions/1.0.5)
 
 ### AI tools for code conversion
 
@@ -120,6 +128,8 @@
 - [eeg101.eu](https://www.eeg101.eu/)
 
 - [teleeeg.org](https://www.teleeeg.org/)
+
+- [MONAI (AI Toolkit for Healthcare Imaging)](https://github.com/Project-MONAI)
 
 ## References
 
