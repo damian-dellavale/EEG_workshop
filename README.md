@@ -26,7 +26,7 @@
 - [CFC and working memory](https://doi.org/10.1038/s41586-024-07309-z)
 - [CFC and neuromodulation](https://doi.org/10.34133/cbsystems.0034)
 - [Assessing cortical excitability using EEG and tES](https://damian-dellavale.github.io/index.html#projects)
-- [Transcranial Temporal Interference Stimulation (tTIS)](https://damian-dellavale.github.io/index.html#projects)
+- [Transcranial temporal interference stimulation (tTIS)](https://damian-dellavale.github.io/index.html#projects)
 ---
 
 ## Module 2 - Broadband arrhythmic activity in EEG signals
