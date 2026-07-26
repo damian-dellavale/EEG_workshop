@@ -91,9 +91,9 @@
 
 - [Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
 
-- [ERPLAB Info](https://erpinfo.org/)\
-&nbsp;[ERPLAB Toolbox](https://erpinfo.org/erplab)\
-&nbsp;[ERPLAB Github](https://github.com/ucdavis/erplab)
+- &nbsp;[ERPLAB Info](https://erpinfo.org/)\
+  &nbsp;[ERPLAB Toolbox](https://erpinfo.org/erplab)\
+  &nbsp;[ERPLAB Github](https://github.com/ucdavis/erplab)
 
 - [NeuroKit (Python)](https://github.com/neuropsychology/NeuroKit)
 
