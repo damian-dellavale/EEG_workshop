@@ -6,7 +6,7 @@ qr/*
 python/
 matlab/
 program/*
-oscillations/**
+oscillations/*
 arrhythmic/*
 clocks/*
 
@@ -31,6 +31,9 @@ lutfu_hanoglu.lnk
 !program/EEG_Workshop_Poster.pdf
 !qr/EEG_workshop_qr-code_circles.png
 !arrhythmic/sgdc/
-!oscillations/cfc/
-!oscillations/cfc/videos/
-!oscillations/cfc/videos/sz4_10ShuffleSignals_PSD_completo.mp4
+
+#Use this to include the video.
+#oscillations/**
+#!oscillations/cfc/
+#!oscillations/cfc/videos/
+#!oscillations/cfc/videos/sz4_10ShuffleSignals_PSD_completo.mp4
