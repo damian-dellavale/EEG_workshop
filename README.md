@@ -90,6 +90,12 @@
 
 - [Neuroimaging Tools & Resources Collaboratory (NITRC)](https://www.nitrc.org/)
 
+- [ERPLAB Info](https://erpinfo.org/)
+&nbsp;[ERPLAB Toolbox](https://erpinfo.org/erplab)
+&nbsp;[ERPLAB Github](https://github.com/ucdavis/erplab)
+
+- [Brain Connectivity Toolbox (Datasets and Demos)](https://sites.google.com/site/bctnet/datasets-and-demos)
+
 ### AI tools for code conversion
 
 - [Claude Code](https://claude.com/product/claude-code)
