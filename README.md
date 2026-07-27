@@ -175,14 +175,14 @@ On the cover: https://www.sciencedirect.com/journal/neuroimage/vol/202/
 Ueda T, Garnier E, Dellavale D, Bartolomei F, Bénar CG (2025), *Identification of the epileptogenic zone using phase-amplitude coupling on ictal electroencephalography: authentic or spurious PAC?*, Clinical Neurophysiology 174, 151-159.\
 DOI: [10.1016/j.clinph.2025.03.029](https://doi.org/10.1016/j.clinph.2025.03.029)
 
-Bruns A. Fourier-, Hilbert- and wavelet-based signal analysis: are they really different approaches? J Neurosci Methods. 2004 Aug 30;137(2):321-32.
+Bruns A. (2004), *Fourier-, Hilbert- and wavelet-based signal analysis: are they really different approaches?*, J Neurosci Methods. 137(2):321-32.
 DOI: [10.1016/j.jneumeth.2004.03.002](https://doi.org/10.1016/j.jneumeth.2004.03.002)
 
-Berens, P. (2009). CircStat: A MATLAB Toolbox for Circular Statistics. Journal of Statistical Software, 31(10), 1–21. 
+Berens, P. (2009), *CircStat: A MATLAB Toolbox for Circular Statistics*, Journal of Statistical Software, 31(10), 1–21. 
 DOI: [10.18637/jss.v031.i10](https://doi.org/10.18637/jss.v031.i10)\
 [MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics)
 
-Combrisson E, Nest T, Brovelli A, Ince RAA, Soto JLP, Guillot A, Jerbi K. Tensorpac: An open-source Python toolbox for tensor-based phase-amplitude coupling measurement in electrophysiological brain signals. PLoS Comput Biol. 2020 Oct 29;16(10):e1008302.
+Combrisson E, Nest T, Brovelli A, Ince RAA, Soto JLP, Guillot A, Jerbi K. (2020), *Tensorpac: An open-source Python toolbox for tensor-based phase-amplitude coupling measurement in electrophysiological brain signals*, PLoS Comput Biol. 16(10):e1008302.
 DOI: [10.1371/journal.pcbi.1008302](https://doi.org/10.1371/journal.pcbi.1008302)\
 Code: [tensorpac](https://github.com/EtienneCmb/tensorpac), [pacpy](https://github.com/voytekresearch/pacpy/)
 
