@@ -16,6 +16,7 @@
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC. Cross-Frequency Directionality (CFD): PAC vs. APC. Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
 | Phase Clustering (PC) | Measures description <br> Coding examples |
 | Spectral harmonicity (TLI) | Measure description <br> Coding examples |
+| Statistical analysis: Nonparametric permutation testing | Theoretical background <br> Coding examples |
 
 - [Module 1 materials](https://drive.google.com/drive/folders/1lYmuekKbw2083DHS0v3Cw-wky0bqZYSO)
 
