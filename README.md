@@ -178,7 +178,7 @@ DOI: [10.1016/j.clinph.2025.03.029](https://doi.org/10.1016/j.clinph.2025.03.029
 Bruns A. (2004), *Fourier-, Hilbert- and wavelet-based signal analysis: are they really different approaches?*, J Neurosci Methods. 137(2):321-32.
 DOI: [10.1016/j.jneumeth.2004.03.002](https://doi.org/10.1016/j.jneumeth.2004.03.002)
 
-Berens, P. (2009), *CircStat: A MATLAB Toolbox for Circular Statistics*, Journal of Statistical Software, 31(10), 1–21. 
+Berens, P. (2009), *CircStat: A MATLAB Toolbox for Circular Statistics*, Journal of Statistical Software, 31(10), 1–21.<br> 
 DOI: [10.18637/jss.v031.i10](https://doi.org/10.18637/jss.v031.i10)\
 [MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics)
 
