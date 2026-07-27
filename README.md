@@ -179,7 +179,7 @@ Bruns A. Fourier-, Hilbert- and wavelet-based signal analysis: are they really d
 DOI: [10.1016/j.jneumeth.2004.03.002](https://doi.org/10.1016/j.jneumeth.2004.03.002)
 
 Berens, P. (2009). CircStat: A MATLAB Toolbox for Circular Statistics. Journal of Statistical Software, 31(10), 1–21. 
-DOI: https://doi.org/10.18637/jss.v031.i10
+DOI: [10.18637/jss.v031.i10](https://doi.org/10.18637/jss.v031.i10)\
 [MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics)
 
 Combrisson E, Nest T, Brovelli A, Ince RAA, Soto JLP, Guillot A, Jerbi K. Tensorpac: An open-source Python toolbox for tensor-based phase-amplitude coupling measurement in electrophysiological brain signals. PLoS Comput Biol. 2020 Oct 29;16(10):e1008302.
