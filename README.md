@@ -11,7 +11,7 @@
 |Oscillations in EEG signals||
 |:---|:---|
 |||
-| Filtering, Hilbert transform | Theoretical background <br> Analytic examples |
+| Filtering. Hilbert transform. Circular statistics | Theoretical background <br> Analytic examples |
 | Coherence measures: Spectral coherence, PLV, wPLV, PPC, PLI, wPLI | Measures description <br> Coding examples |
 | Cross-Frequency Coupling (CFC): PAC, PFC, PPC. Cross-Frequency Directionality (CFD): PAC vs. APC. Mechanistic interpretations (Theta-Gamma code, Gamma-leading Theta interactions) | Measures description and Coding examples |
 | Phase Clustering (PC) | Measures description <br> Coding examples |
@@ -35,7 +35,7 @@
 |Broadband arrhythmic activity in EEG signals||
 |:---|:---|
 |||
-| Neuronal avalanches and criticality, Long-range temporal correlations, Scale-free, Detrended fluctuation analysis | Theoretical background <br> Analytic examples |
+| Neuronal avalanches and criticality. Long-range temporal correlations. Scale-free. Detrended fluctuation analysis | Theoretical background <br> Analytic examples |
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic examples <br> Coding examples |
 | Avalanche-like events in EEG as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
 | Ultradian dynamics of salient events | Examples of data analysis |
@@ -63,8 +63,8 @@
 | Brain aging charts: Brain feature ~ Chronological age + Covariates | Conceptual description |
 | Brain clock models: Biological brain age ~ Brain feature(s) | Conceptual description |
 | Biological age vs. chronological age | Conceptual description |
-| Functional connectivity, O-info connectivity | Measures description |
-| Regression model for building the clock, Methodological caveats | Measures description |
+| Functional connectivity. O-info connectivity | Measures description |
+| Regression model for building the clock. Methodological caveats | Measures description |
 | Non-invasive biophysical neuromodulation to reduce functional brain aging | Background and rationale <br> Coding examples |
 
 - [Module 3 materials](https://drive.google.com/drive/folders/1rp-CNfjg_CkrAT9lWLMfv146e2jdYYdU)
