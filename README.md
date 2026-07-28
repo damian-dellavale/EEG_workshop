@@ -135,6 +135,8 @@ Here you will find IDE options and a guide to install and env. config.
 
 - [teleeeg.org](https://www.teleeeg.org/)
 
+- [EEG bootcamp](https://safebraininitiative.com/)
+
 - [MONAI (AI Toolkit for Healthcare Imaging)](https://github.com/Project-MONAI)
 
 ## References
