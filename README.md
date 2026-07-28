@@ -85,7 +85,7 @@ Here you will find IDE options and a guide to install and env. config.
 
 ### Open-source toolboxes
 
-- [EEGLAB tutorials](https://eeglab.org/tutorials/)
+- [EEGLAB tutorials](https://eeglab.org/tutorials/)\
   [EEGLAB online workshop](https://eeglab.org/workshops/Online_EEGLAB_Workshop.html)
 
 - [FIELDTRIP tutorials](https://www.fieldtriptoolbox.org/tutorial/)
