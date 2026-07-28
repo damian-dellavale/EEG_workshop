@@ -77,9 +77,11 @@
 
 ## Resources
 
-- [Matlab users: Use your academic email address (e.g., .edu.tr) to install the MATLAB version available through your university](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)
+- [Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)\
+Use your academic email address (e.g., .edu.tr) to install the MATLAB version available through your university.
 
-- [Python users: IDE options. Guide to install and env. config.](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)
+- [Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)
+Here you will find IDE options and a guide to install and env. config.
 
 ### Open-source toolboxes
 
