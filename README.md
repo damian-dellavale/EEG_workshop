@@ -80,12 +80,13 @@
 - [Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)\
 Use your academic email address (e.g., .edu.tr) to install the MATLAB version available through your university.
 
-- [Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)
+- [Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)\
 Here you will find IDE options and a guide to install and env. config.
 
 ### Open-source toolboxes
 
 - [EEGLAB tutorials](https://eeglab.org/tutorials/)
+  [EEGLAB online workshop](https://eeglab.org/workshops/Online_EEGLAB_Workshop.html)
 
 - [FIELDTRIP tutorials](https://www.fieldtriptoolbox.org/tutorial/)
 
