@@ -78,11 +78,11 @@
 ## Resources
 
 - [Matlab users](https://drive.google.com/drive/folders/1GCvLnv2htxiM0Ti_b4i577Jf4aGGo6zC)\
-Use your academic email address (e.g., .edu.tr) to install the MATLAB version available through your university.
+Contact your university's Information Technology Services (ITS) for instructions on how to use your academic email address (e.g., .edu.tr) to install the MATLAB version available through your institution's licence.
 
 - [Python users](https://drive.google.com/drive/folders/11ju_BsaaOXWddOMmyu54EXcTljsi1GWm)\
 Here you will find Python IDE options, instructions to install Python on your computer, and a guide to configure Python virtual environments.<br> 
-Note: virtual environments keep each project's Python libraries independent, ensuring reproducibility and preventing dependency conflicts). 
+Note: virtual environments keep each project's Python libraries independent, ensuring reproducibility and preventing dependency conflicts. 
 This way, nothing breaks when different projects need different package versions (e.g., numpy, mne, scikit-learn).
 
 ### Open-source toolboxes
