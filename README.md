@@ -37,7 +37,7 @@
 |:---|:---|
 |||
 | Neuronal avalanches and criticality. Aperiodic and scale-free activities. Long-range temporal correlations.
-| Detrended fluctuation analysis scaling exponent and spectral aperiodic exponent | Theoretical background <br> Analytic examples |
+  Detrended fluctuation analysis scaling exponent and spectral aperiodic exponent | Theoretical background <br> Analytic examples |
 | Linking oscillations and transient salient events: Spectral group delay consistency | Analytic examples <br> Coding examples |
 | Avalanche-like events in EEG as a biomarker of neurological disorders | Coding examples (Parkinson's disease) |
 | Ultradian dynamics of salient events | Examples of data analysis |
