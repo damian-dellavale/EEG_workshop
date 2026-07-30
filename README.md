@@ -64,7 +64,7 @@
 | Brain aging charts: Brain feature ~ Chronological age + Covariates | Conceptual description |
 | Brain clock models: Biological brain age ~ Brain feature(s) | Conceptual description |
 | Biological age vs. chronological age | Conceptual description |
-| Functional, phase-based, group delay-based and O-info connectivities | Measures description |
+| Functional vs. structural connectivity. Power, phase, group delay and O-info based connectivity | Measures description |
 | Regression model for building the clock. Methodological caveats | Measures description |
 | Non-invasive biophysical neuromodulation to reduce functional brain aging | Background and rationale <br> Coding examples |
 
