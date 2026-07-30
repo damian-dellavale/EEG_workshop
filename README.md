@@ -60,7 +60,7 @@
 |Brain aging models||
 |:---|:---|
 |||
-| Normative modeling based on neuroimaging | Conceptual description |
+| Normative modeling based on neuroimaging: General paradigm | Conceptual description |
 | Brain aging charts: Brain feature ~ Chronological age + Covariates | Conceptual description |
 | Brain clock models: Biological brain age ~ Brain feature(s) | Conceptual description |
 | Biological age vs. chronological age | Conceptual description |
