@@ -2,9 +2,10 @@
 
 _refs/
 _fligths_accommodation/
-qr/*
+_networking/
 python/
 matlab/
+qr/*
 program/*
 oscillations/*
 arrhythmic/*
